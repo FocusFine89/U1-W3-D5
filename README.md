@@ -1,0 +1,1 @@
+Agli esercizi del DOM io ho capito che non si deve aggiungere niente alla pagina HTML quindi ho fatto gli esercizi mettendo solo il codice nel file JavaScript che ci vuole a fare gli esercizi senza aggiungere nulla alla pagina HTML
